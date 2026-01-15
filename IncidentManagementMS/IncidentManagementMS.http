@@ -1,0 +1,6 @@
+@IncidentManagementMS_HostAddress = http://localhost:5048
+
+GET {{IncidentManagementMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
